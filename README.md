@@ -1,6 +1,6 @@
 # mediaDaTurma
-![GitHub top language](https://img.shields.io/github/languages/top/maxsueldev/CalculatorJS?color=green)
-![GitHub language count](https://img.shields.io/github/languages/count/maxsueldev/CalculatorJS?color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/maxsueldev/mediaDaTurma?color=green)
+![GitHub language count](https://img.shields.io/github/languages/count/maxsueldev/mediaDaTurma?color=green)
 
 ## Sobre o projeto
 
